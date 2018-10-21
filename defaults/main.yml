@@ -1,2 +1,5 @@
 ---
-default_vim: True
+vim_options:
+  - number
+  - tabstop=4
+  - shiftwidth=4
